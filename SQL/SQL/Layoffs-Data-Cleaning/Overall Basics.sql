@@ -1,3 +1,4 @@
+#Built strong SQL foundations covering SELECT, WHERE, GROUP BY, ORDER BY, HAVING, joins and unions, string functions like SUBSTRING, CASE statements, subqueries, window functions, CTEs, and hands on work with tables, stored procedures, triggers, and events for structured data management and analysis.
 select *
 from employee_demographics;
 
