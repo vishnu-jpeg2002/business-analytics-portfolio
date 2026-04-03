@@ -1,1 +1,3 @@
+Built a B2B sales performance dashboard in Power BI using a self-designed dataset of 4 tables (customers, products, salespersons, sales transactions). Practiced end to end — data modelling in MySQL, data cleaning and transformation in Power Query (handling nulls, mixed formats, data type conversions), DAX measures (Revenue, Gross Profit, Margin %, YoY Growth, Returned Orders), star schema relationships, and a 3 page interactive dashboard covering Sales Overview, Product Analysis and Sales Team Performance. Built independently as a hands-on learning project.
 
+Tech Stack: MySQL · Power BI · Power Query · DAX
