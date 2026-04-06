@@ -1,6 +1,6 @@
 /*
 Repository: Business Analytics Portfolio
-Author: Vishnu R | Management Consulting | Analytics
+Author: Vishnu R | Management Consultant | Analyst
 
 Focus:
 Business analysis, performance evaluation,
