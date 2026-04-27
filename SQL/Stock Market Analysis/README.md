@@ -25,12 +25,12 @@ Columns: ticker, trade date, transaction type, quantity, price per share, total 
 
 **Analysis Questions**
 
-Total volume traded per company
-Average closing price per company
-Total transaction amount per broker
-Monthly total transaction amount
-Top 5 most traded stocks by quantity
-Rolling average of closing price per company
-Rank companies by total transaction amount per year
-Highest single day price jump per company
-BUY vs SELL total amount per company
+1. Total volume traded per company
+2. Average closing price per company
+3. Total transaction amount per broker
+4. Monthly total transaction amount
+5. Top 5 most traded stocks by quantity
+6. Rolling average of closing price per company
+7. Rank companies by total transaction amount per year
+8. Highest single day price jump per company
+9. BUY vs SELL total amount per company
