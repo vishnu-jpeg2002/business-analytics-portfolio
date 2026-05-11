@@ -1,0 +1,51 @@
+product_id,product_name,category,sub_category,unit_price,unit_cost
+1,Mobile Phone,Electronics,Mobile,77.63,61.67
+2,Laptop,Electronics,Laptop,101.47,76.4
+3,Tablet,Electronics,Tablet,109.0,73.31
+4,Earphones,Electronics,Earphones,41.42,32.35
+5,Smartwatch,Electronics,Smartwatch,80.64,63.98
+6,Camera,Electronics,Camera,121.2,84.94
+7,Router,Electronics,Router,65.7,49.79
+8,Speaker,Electronics,Speaker,66.78,46.35
+9,Charger,Electronics,Charger,27.49,18.88
+10,Power Bank,Electronics,Power,46.55,37.17
+11,Men's Shirt,Clothing,Men's,47.57,31.83
+12,Women's Kurta,Clothing,Women's,35.36,27.11
+13,Jeans,Clothing,Jeans,59.72,43.66
+14,Saree,Clothing,Saree,58.97,45.93
+15,T-Shirt,Clothing,T-Shirt,31.26,21.39
+16,Jacket,Clothing,Jacket,95.88,63.69
+17,Trousers,Clothing,Trousers,56.07,35.25
+18,Leggings,Clothing,Leggings,25.34,17.56
+19,Ethnic Wear,Clothing,Ethnic,85.97,58.62
+20,Sportswear,Clothing,Sportswear,59.17,40.75
+21,Rice 5kg,Grocery,Rice,15.81,12.49
+22,Wheat Flour 5kg,Grocery,Wheat,12.78,9.46
+23,Cooking Oil 1L,Grocery,Cooking,9.76,7.33
+24,Tea 500g,Grocery,Tea,7.44,5.52
+25,Coffee 200g,Grocery,Coffee,12.73,9.24
+26,Sugar 1kg,Grocery,Sugar,6.44,4.87
+27,Salt 1kg,Grocery,Salt,4.51,2.86
+28,Spices Pack,Grocery,Spices,10.55,7.21
+29,Biscuits,Grocery,Biscuits,5.63,3.74
+30,Namkeen,Grocery,Namkeen,6.44,4.66
+31,Pressure Cooker,Home & Kitchen,Pressure,40.46,27.45
+32,Non-stick Pan,Home & Kitchen,Non-stick,27.13,18.21
+33,Water Bottle,Home & Kitchen,Water,13.01,8.55
+34,Mixer Grinder,Home & Kitchen,Mixer,53.68,42.56
+35,Dinner Set,Home & Kitchen,Dinner,45.3,33.71
+36,Bed Sheet,Home & Kitchen,Bed,32.75,20.73
+37,Pillow,Home & Kitchen,Pillow,21.94,16.13
+38,Curtain,Home & Kitchen,Curtain,28.63,20.62
+39,Storage Box,Home & Kitchen,Storage,18.32,12.99
+40,Mop Set,Home & Kitchen,Mop,12.74,9.53
+41,Face Wash,Beauty,Face,10.87,8.1
+42,Moisturizer,Beauty,Moisturizer,19.08,12.2
+43,Shampoo,Beauty,Shampoo,13.0,9.8
+44,Conditioner,Beauty,Conditioner,15.71,11.0
+45,Lipstick,Beauty,Lipstick,17.44,13.77
+46,Perfume,Beauty,Perfume,40.65,27.66
+47,Sunscreen,Beauty,Sunscreen,20.71,14.82
+48,Body Lotion,Beauty,Body,13.89,10.04
+49,Hair Oil,Beauty,Hair,14.19,9.89
+50,Kajal,Beauty,Kajal,11.88,7.66
