@@ -1,4 +1,4 @@
-# RetailPulse — End to End Sales Analytics
+# RetailPulse - End to End Sales Analytics
 
 ## Overview
 
